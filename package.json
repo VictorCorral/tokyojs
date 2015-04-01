@@ -1,0 +1,31 @@
+{
+  "name": "tokyojs",
+  "version": "0.0.3",
+  "description": "Tokyo JS",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm run lint && npm run tap",
+    "lint": "jshint src/index.js test/",
+    "build": "babel src -d lib",
+    "tap": "tap test/*.js",
+    "me" : "npm run build && npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tokyojs/tokyojs"
+  },
+  "keywords": [
+    "tokyojs"
+  ],
+  "author": "Jorge Bucaran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tokyojs/tokyojs/issues"
+  },
+  "homepage": "https://github.com/tokyojs/tokyojs",
+  "devDependencies": {
+    "babel": "^5.0.9",
+    "jshint": "^2.6.3",
+    "tap": "^0.7.1"
+  }
+}
