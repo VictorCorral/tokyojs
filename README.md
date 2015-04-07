@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/license-MIT-303030.svg) ![](https://img.shields.io/badge/release-0.1.0-brightgreen.svg) [![Build Status][TravisLogo]][Travis]
+![](https://img.shields.io/badge/license-MIT-303030.svg) ![](https://img.shields.io/badge/release-0.0.4-blue.svg) [![Build Status][TravisLogo]][Travis]
 
 
 # TokyoJS
@@ -20,7 +20,7 @@ require("tokyojs").hi("your name")
 
 ### Tests
 
-The demo project uses [Babel](http://babeljs.io) to get some [ES6](http://git.io/es6features) sugar out of the box. From your terminal run `npm test` or `npm run me` to test gears. Everything should build, transpile and test alright. 
+The demo project uses [Babel](http://babeljs.io) to get some [ES6](http://git.io/es6features) sugar out of the box. From your terminal run `npm test` or `npm run me` to test gears. Everything should build, transpile and test alright.
 
 ### Feedback
 
