@@ -30,8 +30,8 @@ If you have any questions, concerns, feedback and / or suggestions, please feel 
 <br>
 
 <p align="center">
-<a href="https://cloud.githubusercontent.com/assets/8317250/5259315/cb698e22-7a41-11e4-8d70-8e1d865cabbb.png">
-<img width="30%" src="https://cloud.githubusercontent.com/assets/8317250/5259315/cb698e22-7a41-11e4-8d70-8e1d865cabbb.png">
+<a href="https://github.com/tokyojs/tokyojs/issues/4">
+<img width="30%" src="https://cloud.githubusercontent.com/assets/8317250/7038418/69afd7cc-ddec-11e4-8d29-4b79fefa4df6.png">
 </a>
 </p>
 
