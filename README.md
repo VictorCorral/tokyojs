@@ -4,9 +4,6 @@
 
 # TokyoJS
 
-
-## About
-
 ### What is Tokyo JS?
 
 This group is for anyone interested in JavaScript, its good and bad parts. Let's gather to share, explore and learn about everything-JavaScript.
