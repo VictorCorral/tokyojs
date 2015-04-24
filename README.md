@@ -1,4 +1,5 @@
-![](https://img.shields.io/badge/License-MIT-303030.svg?style=flat-square) ![](https://img.shields.io/badge/release-0.0.4-blue.svg?style=flat-square) [![Build Status][TravisLogo]][Travis]
+![](https://img.shields.io/badge/License-MIT-303030.svg?style=flat-square) ![](https://img.shields.io/badge/release-0.0.4-blue.svg?style=flat-square)
+[![Build Status][TravisLogo]][TravisURL]
 
 
 # TokyoJS
@@ -52,3 +53,6 @@ The [MIT](http://opensource.org/licenses/MIT) License
 
 [TravisLogo]: https://travis-ci.org/tokyojs/tokyojs.svg?style=flat-square
 [Travis]: https://travis-ci.org/tokyojs/tokyojs
+
+[TravisLogo]: http://img.shields.io/travis/tokyojs/tokyojs.svg?style=flat-square
+[TravisURL]: http:////travis-ci.org/tokyojs/tokyojs
