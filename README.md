@@ -4,17 +4,20 @@
 
 # TokyoJS
 
+
+## About
+
 ### What is Tokyo JS?
 
-This is a group for anyone interested in JavaScript, its good and bad parts. Let's gather to share, explore and learn about everything-JavaScript.
-
-これはJavaScriptに興味をお持ちの方の新グループです。 特有なところも美しいところも、いずれにせよ唯一無二のJavaScriptを一緒に楽しみましょう。 JavaScriptの全てを探検しながら、勉強したい方も、教えたい方も、皆さんどうぞご参加ください。
+This group is for anyone interested in JavaScript, its good and bad parts. Let's gather to share, explore and learn about everything-JavaScript.
 
 ### Code Party
 
 A code party is a special type of workshop where devs are given a list of topics (a new framework / library, project idea, etc.) and they have 3 to 4 hours to code a simple example and 5 minutes to present their work at the end of the session. Projects are supposed to go into their owner's own GitHub account, or in the case of a team you can (1) create a free organization account at `GitHub/<Name of Your Account>` or (2) directly in `TokyoJS/<Team Name>`. Each entry will be featured in `TokyoJS/CodeParty` list for that week or month.
 
 The goal of a Code Party is to promote trying out new technologies surrounded by peers and allow creating more meaningful connections with other members in the community.
+
+## The NPM Package
 
 ### Install
 
@@ -46,7 +49,7 @@ If you have any questions, concerns, feedback and / or suggestions, please feel 
 
 <hr>
 
-### License
+## License
 
 The [MIT](http://opensource.org/licenses/MIT) License
 
