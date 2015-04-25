@@ -2,7 +2,7 @@
 [![Build Status][TravisLogo]][TravisURL]
 
 <a href="https://github.com/tokyojs/tokyojs/issues/4">
-<img src="https://cloud.githubusercontent.com/assets/8317250/7333135/95bde3f4-eb9d-11e4-8bb5-e869b3429c25.png"
+<img src="https://cloud.githubusercontent.com/assets/8317250/7333142/d1ebe470-eb9d-11e4-93c8-8b3e6b862536.png"
      align="right" alt="Tokyo JS" width="15%" />
 </a>
 
