@@ -8,6 +8,16 @@
 
 This group is for anyone interested in JavaScript, its good and bad parts. Let's gather to share, explore and learn about everything-JavaScript.
 
+<br>
+
+<p align="center">
+<a href="https://github.com/tokyojs/tokyojs/issues/4">
+<img width="30%" src="https://cloud.githubusercontent.com/assets/8317250/7038418/69afd7cc-ddec-11e4-8d29-4b79fefa4df6.png">
+</a>
+</p>
+
+<br>
+
 ### Code Party
 
 A code party is a special type of workshop where devs are given a list of topics (a new framework / library, project idea, etc.) and they have 3 to 4 hours to code a simple example and 5 minutes to present their work at the end of the session. Projects are supposed to go into their owner's own GitHub account, or in the case of a team you can (1) create a free organization account at `GitHub/<Name of Your Account>` or (2) directly in `TokyoJS/<Team Name>`. Each entry will be featured in `TokyoJS/CodeParty` list for that week or month.
@@ -33,16 +43,6 @@ The demo project uses [Babel](http://babeljs.io) to get some [ES6](http://git.io
 
 If you have any questions, concerns, feedback and / or suggestions, please feel free to open and issue [here](https://github.com/tokyojs/QA/issues).
 
-
-<br>
-
-<p align="center">
-<a href="https://github.com/tokyojs/tokyojs/issues/4">
-<img width="30%" src="https://cloud.githubusercontent.com/assets/8317250/7038418/69afd7cc-ddec-11e4-8d29-4b79fefa4df6.png">
-</a>
-</p>
-
-<br>
 
 <hr>
 
