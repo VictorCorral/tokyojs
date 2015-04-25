@@ -3,7 +3,7 @@
 
 <a href="https://github.com/tokyojs/tokyojs/issues/4">
 <img src="https://cloud.githubusercontent.com/assets/8317250/7333142/d1ebe470-eb9d-11e4-93c8-8b3e6b862536.png"
-     align="right" alt="Tokyo JS" width="15%" />
+     align="right" alt="Tokyo JS" width="25%" />
 </a>
 
 
