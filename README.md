@@ -1,6 +1,4 @@
 <p align="center">
-<b>April</b>
-|
 <b><a href="format">Format</a></b>
 |
 <b><a href="feedback">Feedback</a></b>
