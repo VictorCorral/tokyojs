@@ -1,11 +1,11 @@
 <p align="center">
-<b><a href="format">Format</a></b>
+<b><a href="#format">Format</a></b>
 |
-<b><a href="feedback">Feedback</a></b>
+<b><a href="#feedback">Feedback</a></b>
 |
-<b><a href="extras">Extras</a></b>
+<b><a href="#extras">Extras</a></b>
 |
-<b><a href="license">License</a></b>
+<b><a href="#license">License</a></b>
 </p>
 
 ![](https://img.shields.io/badge/License-MIT-303030.svg?style=flat-square) ![](https://img.shields.io/badge/release-0.0.4-blue.svg?style=flat-square)
@@ -13,7 +13,7 @@
 
 <a href="https://github.com/tokyojs/tokyojs/issues/4">
 <img src="https://cloud.githubusercontent.com/assets/8317250/7333142/d1ebe470-eb9d-11e4-93c8-8b3e6b862536.png"
-     align="right" alt="Tokyo JS" width="25%" />
+     align="right" alt="Tokyo JS" width="20%" />
 </a>
 
 
