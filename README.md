@@ -9,6 +9,8 @@
 
 __Tokyo JS__ is a group for anyone interested in JavaScript, its good and bad parts. Let's gather to share, explore and learn about everything-JavaScript.
 
+これはJavaScriptに興味をお持ちの方の新グループです。 特有なところも美しいところも、いずれにせよ唯一無二のJavaScriptを一緒に楽しみましょう。 JavaScriptの全てを探検しながら、勉強したい方も、教えたい方も、皆さんどうぞご参加ください。
+
 ## Format
 
 ### Code Party
