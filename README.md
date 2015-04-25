@@ -7,9 +7,7 @@
 </a>
 
 
-# TokyoJS
-
-Tokyo JS is a group for anyone interested in JavaScript, its good and bad parts. Let's gather to share, explore and learn about everything-JavaScript.
+__Tokyo JS__ is a group for anyone interested in JavaScript, its good and bad parts. Let's gather to share, explore and learn about everything-JavaScript.
 
 
 ### Code Party
