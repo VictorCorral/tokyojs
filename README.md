@@ -1,3 +1,15 @@
+<p align="center">
+<b>April</b>
+|
+<b><a href="format">Format</a></b>
+|
+<b><a href="feedback">Feedback</a></b>
+|
+<b><a href="extras">Extras</a></b>
+|
+<b><a href="license">License</a></b>
+</p>
+
 ![](https://img.shields.io/badge/License-MIT-303030.svg?style=flat-square) ![](https://img.shields.io/badge/release-0.0.4-blue.svg?style=flat-square)
 [![Build Status][TravisLogo]][TravisURL]
 
@@ -19,13 +31,13 @@ A code party is a special type of workshop where devs are given a list of topics
 
 The goal of a Code Party is to promote trying out new technologies surrounded by peers and allow creating more meaningful connections with other members in the community.
 
-### Feedback
+## Feedback
 
 If you have any questions, concerns, feedback and / or suggestions, please feel free to open and issue [here](https://github.com/tokyojs/QA/issues).
 
 <hr>
 
-### Goodies
+## Extras
 
 Just for fun, you can try installing the TokyoJS [npm](https://www.npmjs.com) package (but make sure you have already installed [node](https://nodejs.org) in your system).
 
