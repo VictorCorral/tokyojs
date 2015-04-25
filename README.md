@@ -19,11 +19,13 @@ A code party is a special type of workshop where devs are given a list of topics
 
 The goal of a Code Party is to promote trying out new technologies surrounded by peers and allow creating more meaningful connections with other members in the community.
 
+### Feedback
+
+If you have any questions, concerns, feedback and / or suggestions, please feel free to open and issue [here](https://github.com/tokyojs/QA/issues).
+
 <hr>
 
-## The NPM Package
-
-### Install
+### Goodies
 
 Just for fun, you can try installing the TokyoJS [npm](https://www.npmjs.com) package (but make sure you have already installed [node](https://nodejs.org) in your system).
 
@@ -32,21 +34,11 @@ npm install tokyojs
 require("tokyojs").hi("your name")
 ```
 
-### Tests
-
 The demo project uses [Babel](http://babeljs.io) to get some [ES6](http://git.io/es6features) sugar out of the box. From your terminal run `npm test` or `npm run me` to test gears. Everything should build, transpile and test alright.
-
-### Feedback
-
-If you have any questions, concerns, feedback and / or suggestions, please feel free to open and issue [here](https://github.com/tokyojs/QA/issues).
 
 ## License
 
 The [MIT](http://opensource.org/licenses/MIT) License
-
-
-[TravisLogo]: https://travis-ci.org/tokyojs/tokyojs.svg?style=flat-square
-[Travis]: https://travis-ci.org/tokyojs/tokyojs
 
 [TravisLogo]: http://img.shields.io/travis/tokyojs/tokyojs.svg?style=flat-square
 [TravisURL]: http:////travis-ci.org/tokyojs/tokyojs
