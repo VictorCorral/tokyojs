@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://github.com/tokyojs/tokyojs/issues/4">
-<img width="30%" src="https://cloud.githubusercontent.com/assets/8317250/7038418/69afd7cc-ddec-11e4-8d29-4b79fefa4df6.png">
+<img width="15%" src="https://cloud.githubusercontent.com/assets/8317250/7038418/69afd7cc-ddec-11e4-8d29-4b79fefa4df6.png">
 </a>
 </p>
 
