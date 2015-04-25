@@ -1,13 +1,6 @@
 ![](https://img.shields.io/badge/License-MIT-303030.svg?style=flat-square) ![](https://img.shields.io/badge/release-0.0.4-blue.svg?style=flat-square)
 [![Build Status][TravisLogo]][TravisURL]
 
-
-# TokyoJS
-
-### What is Tokyo JS?
-
-This group is for anyone interested in JavaScript, its good and bad parts. Let's gather to share, explore and learn about everything-JavaScript.
-
 <br>
 
 <p align="center">
@@ -17,6 +10,14 @@ This group is for anyone interested in JavaScript, its good and bad parts. Let's
 </p>
 
 <br>
+
+# TokyoJS
+
+### What is Tokyo JS?
+
+This group is for anyone interested in JavaScript, its good and bad parts. Let's gather to share, explore and learn about everything-JavaScript.
+
+
 
 ### Code Party
 
