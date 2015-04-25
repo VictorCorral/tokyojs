@@ -1,9 +1,9 @@
 ![](https://img.shields.io/badge/License-MIT-303030.svg?style=flat-square) ![](https://img.shields.io/badge/release-0.0.4-blue.svg?style=flat-square)
 [![Build Status][TravisLogo]][TravisURL]
 
-<p style="float:right">
+<p>
 <a href="https://github.com/tokyojs/tokyojs/issues/4">
-<img width="15%" src="https://cloud.githubusercontent.com/assets/8317250/7038418/69afd7cc-ddec-11e4-8d29-4b79fefa4df6.png">
+<img style="float:right" width="15%" src="https://cloud.githubusercontent.com/assets/8317250/7038418/69afd7cc-ddec-11e4-8d29-4b79fefa4df6.png">
 </a>
 </p>
 
