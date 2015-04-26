@@ -8,6 +8,8 @@
 <b><a href="#license">License</a></b>
 </p>
 
+<br>
+
 ![](https://img.shields.io/badge/License-MIT-303030.svg?style=flat-square) ![](https://img.shields.io/badge/release-0.0.4-blue.svg?style=flat-square)
 [![Build Status][TravisLogo]][TravisURL]
 
